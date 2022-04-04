@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radwan Susan</h1>
-<h3 align="center">A passionate frontend developer from Jordan.</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [Triibe](https://github.com/RadwanSusan/Triibe)
-
-- 🌱 I’m currently learning **Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
