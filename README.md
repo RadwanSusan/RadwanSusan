@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radwan Susan</h1>
 <h3 align="center">A passionate Fullstack web developer</h3>
 
-- 🔭 I’m currently working on [Triibe](https://github.com/RadwanSusan/Triibe)
+- 🔭 I’m currently Learning React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
