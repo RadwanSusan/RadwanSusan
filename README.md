@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radwan Susan</h1>
 <h3 align="center">A passionate Fullstack web developer</h3>
 
-- 🔭 I’m currently Learning Next.js![image](https://user-images.githubusercontent.com/73069666/232299240-5aa3b119-06a5-40e8-a7f7-aba2de406620.png)
+- 🔭 I’m currently Learning Next.js
 
 
 <h3 align="left">Connect with me:</h3>
