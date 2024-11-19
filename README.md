@@ -4,6 +4,6 @@
 <!-- - 🔭 I’m currently Learning Next.js -->
 
 <br clear="both">
-<img src="https://github.com/user-attachments/assets/0ab438f4-1ef7-4bcc-84b5-d8fd0fffbebd" alt="Snake animation" />
+<img src="https://github.com/user-attachments/assets/8451ea01-98aa-481d-b6e5-d25c39cdbca1" alt="Snake animation" />
 
 generated with [Platane/snk](https://github.com/Platane/snk)
