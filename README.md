@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Radwan Susan</h1>
-<h3 align="center">A passionate Fullstack web developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
-<!-- - 🔭 I’m currently Learning Next.js -->
 
 <br clear="both">
-<img src="https://github.com/user-attachments/assets/8451ea01-98aa-481d-b6e5-d25c39cdbca1" alt="Snake animation" />
+<img src="https://github.com/user-attachments/assets/ebd5cb58-1116-43e9-b11f-9959de7a5d8d" alt="Snake animation" />
 
 generated with [Platane/snk](https://github.com/Platane/snk)
