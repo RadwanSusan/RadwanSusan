@@ -3,6 +3,6 @@
 
 
 <br clear="both">
-<img src="https://github.com/user-attachments/assets/ebd5cb58-1116-43e9-b11f-9959de7a5d8d" alt="Snake animation" />
+<img src="https://github.com/user-attachments/assets/911251a7-c91c-4a33-a780-c0e979e450ff" alt="Snake animation" />
 
 generated with [Platane/snk](https://github.com/Platane/snk)
